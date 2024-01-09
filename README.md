@@ -5,7 +5,7 @@ I wanted to post this out there for anyone else looking to klipperize their OG S
 
 I will be adding a lot of extra macros and whatnot, but this config got me up and running printing beautiful prints. 
 
-You'll want to PID tune and find your z-offset, as well as tweak some things, but this should get the following up and running:
+You'll want to PID tune and find your z-offset, as well as tweak some things (find your MCU ID), but this should get the following up and running:
 
 Stock LCD screen
 Extruder
